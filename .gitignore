@@ -1,12 +1,12 @@
 node_modules/
 
-#readme.md
+readme.md
 
-#package.json
+package.json
 
-#package-lock.json
+package-lock.json
 
-#LICENSE.txt
+LICENSE.txt
 
-#.gitignore
+.gitignore
 
